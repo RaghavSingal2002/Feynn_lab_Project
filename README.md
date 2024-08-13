@@ -255,7 +255,6 @@ x_t = sales_pred  # Predicted sales
 y = a * np.exp(b * x_t)
 print(f'Total Profit: {y}')
 
-
 **Conclusion –**
 By following these steps, you can develop a financial
 model that aligns with market trends and helps in
